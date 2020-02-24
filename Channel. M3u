@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C11GK0PM/rodjatv.png" group-title="RELIGI", RODJA TV
+http://45.126.83.51/qwr9ew/s/s14/index2.m3u8
+#EXTINF:-1,NABAWI TV
+http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
+#EXTINF:-1,Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
+#EXTINF:-1,TAHFIDZ TV
+http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
+#EXTINF:-1,MADINAH
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+#EXTINF:-1,MAKKAH TV
+http://45.126.83.51/qwr9ew/s/s28/index2.m3u
+#EXTINF:-1 ,WESAL TV
+http://119.235.249.60:1935/wesaltv/live/chunklist_w454796056.m3u8
