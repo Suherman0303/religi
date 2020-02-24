@@ -2,3 +2,15 @@
 
 #EXTINF:-1,Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
+#EXTINF:-1 ,WESAL T
+http://119.235.249.60:1935/wesaltv/live/chunklist_w454796056.m3u8
+EXTINF:-1,Surau TV
+http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
+#EXTINF:-1,Insan TV
+http://wz.insantv.net/group/ngrp:insantv_mobile/chunklist_b768000.m3u8
+#EXTINF:-1,Ashiil TV
+http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
+#EXTINF:-1,Wesal TV
+http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
+#EXTINF:-1,Al Quran Al Kareem
+https://bozztv.com/36bay2/gin/giniko_saudiquran_900kb_36bay2/tracks-v1a1/mono.m3u8
