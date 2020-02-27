@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel relegi",rodja tv
+https://cdnbal1.useetv.com/joss/14/rodjatv/chunklist_w1072093573_b684100_sleng.m3u8?enc=XL-22JlaGQthwJaWuDqF-Q&exp=1582810683
 #EXTINF:-1,Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
 #EXTINF:-1 ,WESAL T
