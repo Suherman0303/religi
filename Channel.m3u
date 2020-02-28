@@ -16,3 +16,9 @@ http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.
 http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
 #EXTINF:-1,Al Quran Al Kareem
 https://bozztv.com/36bay2/gin/giniko_saudiquran_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel relegi",rodja tv
+http://rr2.dens.tv/s/s14/index1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel relegi",madinah tv
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="channel relegi",makkah tv
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
